@@ -1,5 +1,5 @@
 
-# Executive Dashboard
+# Profitability Analysis Dashboard
 
 # Details of the dashboard
  
